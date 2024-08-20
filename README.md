@@ -26,3 +26,28 @@ This repository contains a Power BI dashboard designed for Customer Churn Analys
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/churn-analysis-dashboard.git
+
+   ## Open the Dashboard:
+
+- Open the `.pbix` file in Power BI Desktop to view and interact with the dashboard.
+- Alternatively, you can upload the file to Power BI Service for online access and sharing.
+
+2. **Filter and Explore:**
+
+- Use the filters provided to analyze specific segments or variables.
+- Hover over the charts for detailed insights.
+
+3. **Insights and Actions**
+
+- **Identify High-Risk Groups**: By analyzing age groups, credit scores, and account balances, you can identify which customer segments are at higher risk of churn.
+- **Targeted Retention Strategies**: Use the insights to design targeted interventions for customers who are more likely to churn.
+- **Product Improvement**: Understanding customer preferences and churn reasons can help in refining product offerings.
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests if you'd like to improve the dashboard or add new features.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
